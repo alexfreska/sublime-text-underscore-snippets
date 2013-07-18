@@ -1,10 +1,4 @@
-A collection of underscore snippets for Sublime Text 2 editor.
+ST2 Underscore.JS Snippets
+==========================
 
-Snippets increase productivity and decrease typos/errors -- particularly nice for Javascript.
-
-Check out Underscore.js, a powerful utility library http://documentcloud.github.com/underscore/
-
-Enjoy
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Released under the MIT License : http://www.opensource.org/licenses/mit-license.php
+I am slowly perfecting these snippets. The original forked snippets were functional yet sloppy. I will do my best to impove them.
